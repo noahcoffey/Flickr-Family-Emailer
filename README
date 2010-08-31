@@ -1,5 +1,4 @@
 Flickr Family Emailer
 by Noah Coffey
-noah.coffey@gmail.com
 
 The daily.php script is intended to run once per day and will look at your public flickr photo feed and email out whenever new photos are present (within the past 24 hours). Run the daily.php with a cron job that runs once per day.
